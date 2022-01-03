@@ -2,7 +2,7 @@
 // @name          Theleaknetwork - Dll all
 // @namespace     https://github.com/Azadrim
 // @author        Azadrim
-// @description   Dl on theleaknetwork
+// @description   Dl on Theleaknetwork
 // @copyright     https://github.com/Azadrim
 // @license       GPL-3.0 License
 // @version       1.0
